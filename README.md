@@ -23,7 +23,7 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 # Exemplos de telas
 
 ## Tela do jogo
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/serpente.jpeg" />
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03/blob/main/serpente.jpeg" />
 
 ## Tela do novo jogo
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/mensagem.jpg" />
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto03/blob/main/mensagem.jpg" />
