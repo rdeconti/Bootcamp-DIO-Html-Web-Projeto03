@@ -17,9 +17,13 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 - Inclusão de botão para iniciar o jogo novamente
 
 # Melhorias futuras
-- Sem melhorias futuras
+- Colocar contador de tempo e limitar jogo por tempo também
+- COlocar contador de maçãs
 
 # Exemplos de telas
 
-## Tela
+## Tela do jogo
 <img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/serpente.jpeg" />
+
+## Tela do novo jogo
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/mensagem.jpg" />
