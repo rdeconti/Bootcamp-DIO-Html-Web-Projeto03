@@ -12,21 +12,14 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 
 # Melhorias implementadas
 - Melhorar a interface
-- Inclusão de contador de tempo
-- Inclusão de contador da "comida"
 - Correção da mensagem ao final do jogo
 - Documentar o código
+- Inclusão de botão para iniciar o jogo novamente
 
 # Melhorias futuras
 - Sem melhorias futuras
 
 # Exemplos de telas
 
-## Tela INICIAL
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
-
-## Tela TRAILLERS
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
-
-## Tela MAIS INFORMAÇÕES
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
+## Tela
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/serpente.jpeg" />

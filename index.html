@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie-edge">
+        
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- defer faz o JavaScript ser carregado no final. -->
+        <script defer src="js/script.js"></script>
+        
+        <title>JOGO DA SERPENTE</title>
+    
+    </head>
+
+    <header>
+        <h1>JOGO DA SERPENTE</h1>
+    </header>
+    
+    <body class="regras">
+
+        <p>
+            O jogador controla a serpente que se arrasta pela tela, coletando a maçã, não podendo colidir com seu próprio corpo ou
+            as "paredes" que cercam a área de jogo. Cada vez que a serpente come uma maçã, sua cauda cresce, aumentando a
+            dificuldade do jogo. O jogador controla a direção da cabeça da serpente (para cima, para baixo, esquerda e direita) e
+            seu corpo segue.
+        </p>
+        
+        <div>
+            <!-- Largura e altura do jogo. -->
+            <canvas id="snake" width="512" height="512"></canvas>
+        </div>
+
+        <div>
+            <button class="botao" type="button" onclick="novoJogo()">NOVO JOGO</button>
+        </div>
+    
+    </body>
+
+</html>
