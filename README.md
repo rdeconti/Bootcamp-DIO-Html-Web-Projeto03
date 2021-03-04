@@ -2,10 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
-# Bootcamp DIO HTML WEB DEVELOPER 
-# Projeto 03 - Recriando o jogo da cobrinha
-Este projeto foi proposto pela Digital Innovation One no Bootcamp HTML WEB Developer.
-Link do código original: https://github.com/SpruceGabriela/snake-the-game
+# Projeto Digital Innovation One HTML
+# Recriando o jogo da cobrinha
+Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/SpruceGabriela/snake-the-game
 
 # Descrição
 Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha (Game Snake) utilizando HTML, CSS e JavaScript.
