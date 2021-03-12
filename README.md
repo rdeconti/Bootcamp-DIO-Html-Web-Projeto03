@@ -17,7 +17,7 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 
 # Melhorias futuras
 - Colocar contador de tempo e limitar jogo por tempo também
-- COlocar contador de maçãs
+- Colocar contador de maçãs
 
 # Exemplos de telas
 
